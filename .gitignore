@@ -36,3 +36,6 @@
 *.jar
 *.war
 *.ear
+
+# Mac
+*.DS_Store
